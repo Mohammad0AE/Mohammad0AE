@@ -2,7 +2,7 @@
   <img src="https://github.com/Mohammad0AE/Sin/blob/master/header.svg" width="854" />
 </div>
 
-# 🚀 Hi I'm Mohammad 🤞
+# 🚀 AKA Serpico 69 😉
 
 ### 🛠 Tech Stack
 I specialize in building high-performance applications using the following technologies:
