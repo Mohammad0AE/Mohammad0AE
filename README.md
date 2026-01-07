@@ -33,7 +33,7 @@ I specialize in building high-performance applications using the following techn
 I'm always open to discussing new projects or opportunities.
 
 - 📧 **Email:** [mohamadebrahimie.pro@gmail.com](mailto:mohamadebrahimie.pro@gmail.com)
-- 💼 **LinkedIn:** [[Your Profile Link Here](https://www.linkedin.com/in/mohamad-a-e-60169a279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+- 💼 **LinkedIn:** [[My Profile Link Here](https://www.linkedin.com/in/mohamad-a-e-60169a279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 
 ---
 <p align="center">
